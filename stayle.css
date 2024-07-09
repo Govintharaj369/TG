@@ -1,0 +1,112 @@
+body{
+    background-color: #f0f2f5;
+}
+#d1{
+    margin: auto;
+    height: 530px;
+    width: 510px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+}
+#btn{
+    margin-top: 10px;
+    height: 30px;
+    width: 50%;
+    background: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+}
+#btn:hover{
+    background-color: #45a049;
+}
+h1,#p1{
+    margin-left: 10px;
+}
+#p1{
+    margin-top: -15px;
+    font-size: 15px;
+    color: #606770;
+}
+#d2,#d3,p,#d4,#d5,#dob{
+    margin-left: 12px;
+    font-size: 15px;
+    color: #606770;
+}
+#d2,#d4{
+    display: flex;
+}
+#s1:hover{
+    text-decoration: underline;
+
+}
+#s2:hover{
+    text-decoration: underline;
+}
+#s3:hover{
+    text-decoration: underline;
+}
+#s4:hover{
+    text-decoration: underline;
+}
+#s1,#s2,#s3,#s4{
+    color: rgb(50, 100, 231);
+}
+#d2{
+    margin-top: -15px;
+}
+#fn,#sn{
+    height: 30px;
+    width: 230px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+}
+#ea,#pass{
+    margin-top: -10px;
+    height: 30px;
+    width: 472px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+}
+#date,#mon,#year{
+    height: 30px;
+    width: 155px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+}
+#d5{
+    display: flex;
+    font-size: 15px;
+    color: #606770;
+}
+#d6{
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: #606770;
+}
+#a1,#a2,#a3{
+    font-size: medium;
+    height: 30px;
+    width: 155px;
+    border-radius: 5px;
+    margin-top: 50;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    text-align: center;
+}
+#female,#custom{
+    margin-top: 8px;
+    margin-left: 80px;
+}
+#male{
+    margin-top: 8px;
+    margin-left: 95px;
+    margin-right: 5px;
+}
